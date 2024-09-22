@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francis Rushion Gachuri Chegge</h1>
+<h1 align="center">Hi 👋, I'm Marcos Wainaina</h1>
 <h3 align="center">A passionate student in the field of Software Engineering from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushionsdomain&label=Profile%20views&color=0e75b6&style=flat" alt="rushionsdomain" /> </p>
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/rushionc137" target="blank"><img src="https://img.shields.io/twitter/follow/rushionc137?logo=twitter&style=for-the-badge" alt="rushionc137" /></a> </p>
 
-- 🔭 I’m currently learning and working on [React Projects in Moringa School](https://github.com/rushionsdomain)
+- 🔭 I’m currently learning and working on [React Projects in Moringa School](https://github.com/Marcos-tech003)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux Frameworks.**
 
-- 👯 I’m looking to collaborate on [Python and Javascript Projects](https://github.com/rushionsdomain)
+- 👯 I’m looking to collaborate on [Python and Javascript Projects]https://github.com/Marcos-tech003)
 
-- 🤝 I’m looking for help with [React Manipulation](https://github.com/rushionsdomain)
+- 🤝 I’m looking for help with [React Manipulation](https://github.com/Marcos-tech003)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rushionsdomain](https://github.com/rushionsdomain)
+- 👨‍💻 All of my projects are available at [https://github.com/Marcos-tech003](https://github.com/Marcos-tech003
 
 - 💬 Ask me about **C++, PHP**
 
